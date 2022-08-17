@@ -1,1 +1,1 @@
-# AI_Modeling
+# Artificial Intelligence Modeling
