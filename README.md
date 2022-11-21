@@ -1,1 +1,1 @@
-# Artificial Intelligence Modeling
+# AI Modeling Algorithm for Computer Vision
